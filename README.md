@@ -24,6 +24,8 @@ Datos-y-Algoritmos/
 │   └── lab03_13.08
 ├── Semana-4/
 │   └── lab04_19.08
+├── dev-pr-dynamic/
+│   └── app-subscriptores
 └── README.md
 ```
 
