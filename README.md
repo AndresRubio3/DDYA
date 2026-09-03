@@ -13,6 +13,9 @@ Repositorio de los laboratorios realizados semanalmente para la materia **Datos 
 * **Semana-4**
 
   * `lab04_19.08`
+* **dev-pr-dynamic**
+
+  * `app-subscriptores`
 
 ## 📁 Estructura del repositorio
 
